@@ -44,7 +44,7 @@ open source ChatGPT and GPT4 alternatives for LLMs
 * [hugging face official blog :Fine-tuning 20B LLMs with RLHF on a 24GB consumer GPU ](https://huggingface.co/blog/trl-peft)
 
 ## others
--  内存泄漏检查: 内存分析工具:Eclipse Memory Analyzer、VisualVM
+-  内存泄漏检查: 内存分析工具: Eclipse Memory Analyzer、VisualVM
 
 ### unsure
 能否用GLM的pretrain代码和finetune代码来做CahtGLM的continue pretrain和finetune？
