@@ -13,15 +13,22 @@ open source ChatGPT and GPT4 alternatives for LLMs
 * [Chinese BELLE](https://github.com/LianjiaTech/BELLE)
  
 ### glm 6b
-* [glm6b-ptuning](https://github.com/THUDM/ChatGLM-6B/blob/main/ptuning/README.md)
+
+- 模型已经开源至 Hugging Face Hub，可以直接利用 HF Trainer 等进行训练；RLHF 部分，亦可以直接利用 trlx 等库进行实现
+- 
+* [glm6b-ptuning 基于量化和ptuning的微调 最低只需要7GB显存](https://github.com/THUDM/ChatGLM-6B/blob/main/ptuning/README.md)
 
 * [glm6b-c++ mnn onnx](https://github.com/wangzhaode/ChatGLM-MNN)
 
-#### lm6b-finetune-lora
-* [ChatGLM-finetune-LoRA](https://github.com/lich99/ChatGLM-finetune-LoRA)
+#### glm6b-finetune-lora
+* [zero_nlp](（https://github.com/yuanzhoulvpi2017/zero_nlp)
+* [lich99](https://github.com/lich99/ChatGLM-finetune-LoRA)
+* [mymusise](https://github.com/mymusise/ChatGLM-Tuning)
+* [ssbuild](https://github.com/ssbuild/chatglm_finetuning）
+
 
 ## multi-modal 
-* [visual-openllm] (https://github.com/visual-openllm/visual-openllm)
+* [visual-openllm](https://github.com/visual-openllm/visual-openllm)
 
 
 ## tools
