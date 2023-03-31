@@ -24,7 +24,7 @@ open source ChatGPT and GPT4 alternatives for LLMs
 * [zero_nlp](https://github.com/yuanzhoulvpi2017/zero_nlp)
 * [lich99](https://github.com/lich99/ChatGLM-finetune-LoRA)
 * [mymusise](https://github.com/mymusise/ChatGLM-Tuning)
-* [ssbuild](https://github.com/ssbuild/chatglm_finetuning）
+* [ssbuild](https://github.com/ssbuild/chatglm_finetuning)
 * [chenyiwan](https://github.com/chenyiwan/chatglm-6b-fine-tuning)
 
 ## multi-modal 
