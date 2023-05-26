@@ -21,6 +21,8 @@ open source ChatGPT and GPT4 alternatives for LLMs
 
 - [gpt4all-visualization](https://atlas.nomic.ai/map/gpt4all_data_clean_without_p3)
 
+- [timdettmers/guanaco-33b-merged-qlora download](https://huggingface.co/timdettmers/guanaco-33b-merged/tree/main)
+
 
 ## Chinese models
 * [Chinese shibing624 LMFT](https://github.com/shibing624/lmft)
